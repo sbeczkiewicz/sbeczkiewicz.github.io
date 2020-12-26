@@ -1,7 +1,24 @@
 
   
 body {
-  color: lightblue;
+  
   text-align: center;
+  background-color: rgb(232, 240, 255);
 }
 
+.div1 {
+  background-color: rgba(98, 146, 161, 0.459);
+  
+}
+
+.div2 {
+  background-color: rgba(98, 146, 161, 0.603);
+}
+
+.div3 {
+  background-color: rgba(98, 146, 161, 0.795);
+}
+
+.div4 {
+  background-color: rgb(98, 146, 161);
+}
